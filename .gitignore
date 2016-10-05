@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/ecl,macos,eclipse,java,intellij
 
-#!! ERROR: ecl is undefined. Use list command to see defined gitignore types !!#
+data/market.dat
 
 ### macOS ###
 *.DS_Store
