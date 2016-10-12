@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/ecl,macos,eclipse,java,intellij
 
-data/market.dat
+data/
 
 ### macOS ###
 *.DS_Store
